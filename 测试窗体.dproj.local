@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/08/13 15:00:02.180,=C:\Users\cames\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/08/13 15:00:27.629,C:\Users\cames\Documents\Embarcadero\Studio\Projects\windows服务程序测试\FMain.pas=C:\Users\cames\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/08/13 15:00:27.629,C:\Users\cames\Documents\Embarcadero\Studio\Projects\windows服务程序测试\FMain.dfm=C:\Users\cames\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/08/13 15:00:45.346,C:\Users\cames\Documents\Embarcadero\Studio\Projects\windows服务程序测试\测试窗体.dproj=C:\Users\cames\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
